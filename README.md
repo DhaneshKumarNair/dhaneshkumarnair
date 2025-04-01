@@ -4,7 +4,7 @@
 ---
 
 ### 📄 Resume
-[Download My Resume](Dhanesh_Kumar_SR_QA_Manual.pdf)
+[Download My Resume](Dhanesh Kumar SR QA - Manual.pdf)
 
 ---
 
